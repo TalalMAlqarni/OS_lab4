@@ -32,5 +32,5 @@ int main(int argc, char *argv[]) {
   printf("The Maximum is %d\n", max);
   printf("The  Minimum is %d\n", min);
   printf("The Average is %d\n", avg);
-
+return 0;
 }

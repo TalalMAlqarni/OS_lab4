@@ -38,5 +38,5 @@ case 12:
 default:
     printf("invalid number\n"); break;
     }
-
+return 0;
 }

@@ -25,4 +25,5 @@ int main(int argc, char *argv[]){
     for (int i = 0; i < 10; i++){
         printf("The student's name is %s and his grade is %s\n", students[i].name, students[i].grade);
     }
+    return 0;
  }

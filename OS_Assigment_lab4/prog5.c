@@ -16,4 +16,5 @@ printf( "in %d hours, there are %d seconds\n",H ,S);
 }
 else {printf("invalid number\n");
 }
+return 0;
 }
